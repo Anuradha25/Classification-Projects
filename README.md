@@ -2,4 +2,4 @@
 Classification concepts practice using different dataset
 
 1. Iris DataSet
-2. Kid's Magazine Dataset
+2. Magazine selection Dataset
